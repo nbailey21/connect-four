@@ -1,0 +1,23 @@
+.board button {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  border: 1px solid blue;
+}
+
+button.black {
+  background: black;
+}
+
+button.red {
+  background: red;
+}
+
+.play-again {
+  display: none;
+}
+
+.player {
+  color: black;
+  text-transform: capitalize;
+}
